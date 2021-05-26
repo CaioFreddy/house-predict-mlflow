@@ -1,6 +1,6 @@
 import pandas as pd
 import mlflow
-logged_model = 'file:///home/kyle/Projetos/house-predict-mlflow/mlflow/mlflow/mlruns/1/9f7fa08a8d2b485699d8ad5dba01ecbf/artifacts/model'
+logged_model = 'file:///home/kyle/Projetos/house-prices-mlflow/mlflow/mlruns/1/c10dfb69dd0a472b82e32d905dd9171e/artifacts/model'
 
 # Load model as a PyFuncModel.
 loaded_model = mlflow.pyfunc.load_model(logged_model)

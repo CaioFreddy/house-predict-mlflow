@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kyle/Projetos/house-prices-mlflow/mlflow/notebooks/mlruns/1/ac601cfe750542e59e29c37c8c5ab29a/artifacts
+end_time: 1622043929531
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: ac601cfe750542e59e29c37c8c5ab29a
+run_uuid: ac601cfe750542e59e29c37c8c5ab29a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1622043929321
+status: 3
+tags: []
+user_id: kyle

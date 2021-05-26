@@ -1,4 +1,4 @@
-artifact_location: file:///home/kyle/Santander_Estudo/mlflow/mlflow/mlruns/1
+artifact_location: file:///home/kyle/Projetos/house-prices-mlflow/mlflow/mlruns/1
 experiment_id: '1'
 lifecycle_stage: active
 name: house_prices_script

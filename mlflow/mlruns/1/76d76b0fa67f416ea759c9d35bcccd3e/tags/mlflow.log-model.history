@@ -1,1 +1,0 @@
-[{"run_id": "76d76b0fa67f416ea759c9d35bcccd3e", "artifact_path": "model", "utc_time_created": "2021-05-26 14:42:23.911209", "flavors": {"python_function": {"loader_module": "mlflow.xgboost", "python_version": "3.8.5", "data": "model.xgb", "env": "conda.yaml"}, "xgboost": {"xgb_version": "1.4.2", "data": "model.xgb"}}}]
