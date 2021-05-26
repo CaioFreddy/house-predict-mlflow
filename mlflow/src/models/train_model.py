@@ -42,6 +42,7 @@ def main():
     xgb_params = {'learning_rate': args.learning_rate,
                   'max_depth': args.max_depth, 'seed': 42}
 
+    mlflow.set_tracking_uri('http://localhost:5000')
     mlflow.set_experiment('house_prices_script')
     with mlflow.start_run():
         mlflow.xgboost.autolog()
