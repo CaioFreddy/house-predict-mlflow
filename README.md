@@ -7,6 +7,7 @@
 - python src/models/train_model.py --learning-rate [valor do learning rate] --max-depth [valor maximo de profundidade]
 
 ## Execucao via script
+### Editar dentro do script o caminho e id do modelo treinado
 - python src/models/predict_model.py 
 
 ## Execucao no terminal
@@ -17,8 +18,8 @@
 - Request POST no endereço [url]/invocations
 ```json
 {
-    'columns': ['tamanho', 'ano', 'garagem'],
-    'data': [
+    "columns": ["tamanho", "ano", "garagem"],
+    "data": [
         [150, 2003, 2],
         [80, 2010, 3]
     ]
