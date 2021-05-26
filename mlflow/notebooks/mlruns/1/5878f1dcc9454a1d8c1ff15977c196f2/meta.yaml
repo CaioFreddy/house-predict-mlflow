@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kyle/Santander_Estudo/mlflow/mlflow/notebooks/mlruns/1/5878f1dcc9454a1d8c1ff15977c196f2/artifacts
+end_time: 1622004467413
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: 5878f1dcc9454a1d8c1ff15977c196f2
+run_uuid: 5878f1dcc9454a1d8c1ff15977c196f2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1622004198645
+status: 3
+tags: []
+user_id: kyle

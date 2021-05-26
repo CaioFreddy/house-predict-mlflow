@@ -1,0 +1,6 @@
+cookiecutter
+mlflow
+sklearn
+jupyterlab
+xgboost
+matplotlib
